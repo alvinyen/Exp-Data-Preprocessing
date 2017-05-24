@@ -9,4 +9,4 @@
 
 - RawData Class主要專注於資料載入、欄位選擇、資料轉換等前處理之相關API。
 
-- ThroughputCounter Class主要專注於每毫秒request處理數的計算及計算結果的寫出等相關API。
+- ThroughputCounter Class主要專注於每毫秒request處理數的計算及計算結果的寫檔等相關API。
